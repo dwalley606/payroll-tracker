@@ -14,4 +14,4 @@ See a sample of the app below:
 
 See the app deployed live on Github Pages:
 
-[https://dwalley606.github.io/challenge3/](url)
+[CLICK HERE!](https://dwalley606.github.io/challenge3/)
